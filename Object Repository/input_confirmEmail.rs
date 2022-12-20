@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_confirmEmail</name>
+   <tag></tag>
+   <elementGuidId>11de9882-2b32-484d-ba52-1ba42a6a4820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name='reg_email_confirmation__']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name='reg_email_confirmation__']</value>
+      <webElementGuid>08e4eccf-60f2-44d2-a9cd-7edae73c9905</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

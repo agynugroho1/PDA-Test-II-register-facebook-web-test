@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_bday_day</name>
+   <tag></tag>
+   <elementGuidId>1359e417-43b3-47bc-aa2f-bd3a3723855b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name='birthday_day']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name='birthday_day']</value>
+      <webElementGuid>31fb5de1-1501-4976-8314-1dfc32632c5f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

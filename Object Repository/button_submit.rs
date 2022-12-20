@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_submit</name>
+   <tag></tag>
+   <elementGuidId>4b0e0e2f-58fe-47d7-abb4-9948ad1bdb1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@name='websubmit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@name='websubmit']</value>
+      <webElementGuid>33f08dc7-a996-4d40-9d3d-9f11e13b916f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

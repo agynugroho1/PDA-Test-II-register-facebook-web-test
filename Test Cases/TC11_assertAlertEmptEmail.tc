@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate error when email is empty</description>
+   <name>TC11_assertAlertEmptEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b611581b-0e4c-416c-be0c-e1b030df736f</testCaseGuid>
+</TestCaseEntity>

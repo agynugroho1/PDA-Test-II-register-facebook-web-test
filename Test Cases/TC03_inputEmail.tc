@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input email for Register</description>
+   <name>TC03_inputEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f79a0a47-414b-42fb-a6ad-7f520cb2835a</testCaseGuid>
+</TestCaseEntity>

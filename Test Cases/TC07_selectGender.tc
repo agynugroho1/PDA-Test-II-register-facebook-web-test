@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select gender for Register</description>
+   <name>TC07_selectGender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a81640aa-c88c-4527-8406-ea77ab137148</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f60323ad-ee97-48ec-911b-2587b4e57e30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Female'</defaultValue>
+      <description></description>
+      <id>f60323ad-ee97-48ec-911b-2587b4e57e30</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+</TestCaseEntity>

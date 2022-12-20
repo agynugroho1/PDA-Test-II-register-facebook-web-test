@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input last name for register</description>
+   <name>TC02_inputLastname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f243a2c7-88c6-4143-9d27-5a8b764695ac</testCaseGuid>
+</TestCaseEntity>

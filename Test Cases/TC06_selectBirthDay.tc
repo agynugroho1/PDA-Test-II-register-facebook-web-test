@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Select birthday day, month, and year</description>
+   <name>TC06_selectBirthDay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62f48608-e8d4-4cb2-be23-8bcaea2035fd</testCaseGuid>
+</TestCaseEntity>

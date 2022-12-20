@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Confirmation for Information page appear</description>
+   <name>TC09_assertConfirminformationPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61c464d8-e92d-4af3-a0e0-d65bbd046ba1</testCaseGuid>
+</TestCaseEntity>
